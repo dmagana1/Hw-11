@@ -52,13 +52,27 @@ app.delete('/api/notes/:id', (req,res)=>{
     readFileAsync("./db/db.json", "utf8")
     .then((result, err)=>{
         if(err) console.log(err);
-        return Promise.resolve)JSON.parse(result));
+        return Promise.resolve(JSON.parse(result));
     })
     .then(data =>{
         data.splice(data.indexOf(data.find(element => element.id)),1);
         return Promise.resolve(data);
     })
     .then(data =>{
-        writeFileAsync("./db/db.json", JSON.stringify)
+        writeFileAsync("./db/db.json", JSON.stringify(data));
+        res.send("ok");
     })
+    .catch(err =>{
+        if(err) throw err;
+    });
+});
+app.use(funcation (req, res, next){
+    res.status(404).send("Error! Can't Find That")
 })
+app.listen(PORT, function(){
+    console.log(`Listening on PORT ${PORT}`);
+});
+function getLastIndex(data){
+    if (data.length > 0) return data[data.length-1].id;
+    return 0;
+}
