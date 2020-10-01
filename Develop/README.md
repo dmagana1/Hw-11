@@ -14,7 +14,7 @@ I did run into problems I can not seem to run the program throught Heroku and I 
 ![alt text](Picture/hw112.JPG)
 
 
-## What the Project is supposed to look like Deployed in Heroku
+## What the Project looks like Deployed in Heroku
 
 ![alt text](Picture/hw11_pic1.JPG)
 ![alt text](Picture/hw11_3.JPG)
