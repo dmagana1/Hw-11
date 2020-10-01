@@ -22,4 +22,4 @@ I did run into problems I can not seem to run the program throught Heroku and I 
 
 ## Video of Note Taker
 
-![Watch the video](https://drive.google.com/file/d/1_gDGG_rzPGnA8LGEdLyDN2GxEGZe7giD/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1_gDGG_rzPGnA8LGEdLyDN2GxEGZe7giD/view?usp=sharing)
