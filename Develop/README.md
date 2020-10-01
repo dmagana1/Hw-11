@@ -21,4 +21,4 @@ I did run into problems I can not seem to run the program throught Heroku and I 
 ![alt text](Picture/hw11_2.JPG)
 
 ## Video of Note Taker
-[![Watch the video](hhttps://drive.google.com/file/d/1_gDGG_rzPGnA8LGEdLyDN2GxEGZe7giD/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1_gDGG_rzPGnA8LGEdLyDN2GxEGZe7giD/view?usp=sharing)
