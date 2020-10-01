@@ -10,8 +10,13 @@ https://note-taker1231.herokuapp.com/
 I did run into problems I can not seem to run the program throught Heroku and I keep getting errors, and I have attached the follow pictures that show the errors, but after watching a few Youtube videos and Googling my questions I was able to figure out what I was doing wrong, and I was able to get the application to depoly propertly in Heroku. 
 
 ![alt text](Picture/hw11.JPG)
-(Picture/hw11.JPG)
+
+![alt text](Picture/hw112.JPG)
 
 
-## What the Project is supposed to look like
+## What the Project is supposed to look like Deployed in Heroku
+
+![alt text](Picture/hw11_pic1.JPG)
+![alt text](Picture/hw11_3.JPG)
+![alt text](Picture/hw11_2.JPG)
 
